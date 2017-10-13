@@ -1,6 +1,6 @@
 package main
 
-import "github.com/junegunn/fzf/src"
+import "github.com/alievilshat/fzf/src"
 
 var revision string
 

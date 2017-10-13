@@ -7,7 +7,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/junegunn/fzf/src/tui"
+	"github.com/alievilshat/fzf/src/tui"
 )
 
 type ansiOffset struct {

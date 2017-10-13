@@ -7,7 +7,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/junegunn/fzf/src/util"
+	"github.com/alievilshat/fzf/src/util"
 )
 
 // Reader reads from command or standard input
